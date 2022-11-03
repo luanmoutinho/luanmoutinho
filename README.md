@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--
-**luanmoutinho/luanmoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![CatComputerGIF](https://user-images.githubusercontent.com/51178923/199628283-41b5928c-e9aa-412b-9c56-46bca4d74edd.gif)
