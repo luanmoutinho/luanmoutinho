@@ -8,4 +8,10 @@
 - 😄 Pronomes: Ele/Dele
 
 
-![CatComputerGIF](https://user-images.githubusercontent.com/51178923/199628283-41b5928c-e9aa-412b-9c56-46bca4d74edd.gif)
+
+
+<div align="center">
+  <a href="https://github.com/luanmoutinho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanmoutinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmoutinho&layout=compact&langs_count=7&theme=dracula"/>
+</div>
