@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Cursando Engenharia de Software
+- 🔭 Cursando: Engenharia de Software
 - 🌱 Estudando JAVA EE
 - 😄 Pronomes: Ele/Dele
 
