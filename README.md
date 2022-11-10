@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/luanmoutinho">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luanmoutinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmoutinho&layout=compact&langs_count=7&count_private=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmoutinho&layout=compact&langs_count=7&count-private=true&theme=dark"/>
 </div>
 
   🔗 &nbsp;**Connect with me**
